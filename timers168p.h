@@ -1,0 +1,6 @@
+#ifndef _COMMON_TIMERS168P_H
+#define _COMMON_TIMERS168P_H
+
+/* NOT IMPLEMENTED YET! */
+
+#endif

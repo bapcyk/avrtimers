@@ -1,0 +1,6 @@
+#ifndef _COMMON_TIMERS8_H
+#define _COMMON_TIMERS8_H
+
+/* NOT IMPLEMENTED YET! */
+
+#endif
